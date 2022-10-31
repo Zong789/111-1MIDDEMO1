@@ -10,7 +10,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-             <h1>線上掛號系統</h1>
+            <h1>線上掛號系統</h1>
+
             <h2>|| 個人資訊</h2>
             <asp:Panel ID="pl_Info" runat="server" Width="500px" BorderWidth="1px">
                 <asp:Label ID="lb_Type" runat="server" Text="初診"></asp:Label>
